@@ -12,6 +12,7 @@ const DEFAULT_NAVIGATION = {
   navItems: [
     { label: 'Hero', href: '#hero' },
     { label: 'Features', href: '#features' },
+    { label: 'Pricing', href: '/pricing' },
   ],
   ctaText: 'Get Started',
   ctaHref: '/signup',
